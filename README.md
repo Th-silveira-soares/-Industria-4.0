@@ -11,8 +11,11 @@
 
 Todas as imagens e resultados das pesquisas foram **gerados através de Inteligência Artifical**
 
-## Não haverá tudo que engloba a industria 4.0 pois não esse tema é enorme e está em constante desenvolvimento.
-Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
+** Objetivo
+Com base no conhecimento obtido através da imersão dev_ - Alura + Google Gemini, o objetivo deste projeto foi criar um banco de dados para pesquisa sobre alguns dos temas mais importantes no que diz respeito à Industria 4.0.
 
-Qualquer dúvidas ou Feedback, podem me mandar por aqui ou [pelas minhas redes](https://linktr.ee/th.silveira.soares).
-Vamos juntos?!
+## Não haverá tudo que engloba a industria 4.0 pois esse tema é enorme e está em constante desenvolvimento.
+Mas ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
+
+Qualquer dúvidas ou Feedback, podem me mandar pelas [pelas minhas redes](https://linktr.ee/th.silveira.soares).
+Vamos nessa juntos?!
