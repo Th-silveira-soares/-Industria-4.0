@@ -5,6 +5,7 @@
 * Linguagens:
   * <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" /> HTML
   * <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" /> CSS
+  * <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24" /> JavaScript
 * I.A's:
   - <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="24" height="24" /> Google Gemini
   - <img src="https://img.icons8.com/fluency/48/000000/chatbot.png" width="24" height="24" /> ChatGPT
