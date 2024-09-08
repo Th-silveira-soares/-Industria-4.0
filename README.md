@@ -7,7 +7,7 @@
   * <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" /> CSS
 * I.A's:
   - <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="24" height="24" /> Google Gemini
-  - <img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-chatbot-artificial-intelligence-outline-outline-juicy-fish.png" width="24" height="24" /> ChatGPT
+  - <img src="https://img.icons8.com/fluency/48/000000/chatbot.png" width="24" height="24" /> ChatGPT
 
 ## Não haverá tudo que engloba a industria 4.0 pois não esse tema é enorme e está em constante desenvolvimento.
 Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
