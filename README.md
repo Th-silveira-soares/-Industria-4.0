@@ -3,8 +3,8 @@
 
 ## Tecnologias utilizadas
 * Linguagens:
-  - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" /> HTML
-  - CSS
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" /> HTML
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24" /> CSS
 * I.A's:
   - Google Gemini
   - ChatGPT
