@@ -11,8 +11,8 @@
 
 Todas as imagens e resultados das pesquisas foram **gerados através de Inteligência Artifical**
 
-** Objetivo
-Com base no conhecimento obtido através da imersão dev_ - Alura + Google Gemini, o objetivo deste projeto foi criar um banco de dados para pesquisa sobre alguns dos temas mais importantes no que diz respeito à Industria 4.0.
+## Objetivo
+  Com base no conhecimento obtido através da imersão dev_ - Alura + Google Gemini, o objetivo deste projeto foi criar um banco de dados para pesquisa sobre alguns dos temas mais importantes no que diz respeito à Industria 4.0.
 
 ## Não haverá tudo que engloba a industria 4.0 pois esse tema é enorme e está em constante desenvolvimento.
 Mas ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
