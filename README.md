@@ -8,7 +8,8 @@
   * <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24" /> JavaScript
 * I.A's:
   - <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="24" height="24" /> Google Gemini
-  - <img src="https://img.icons8.com/fluency/48/000000/chatbot.png" width="24" height="24" /> ChatGPT
+
+Todas as imagens e resultados das pesquisas foram **gerados através de Inteligência Artifical**
 
 ## Não haverá tudo que engloba a industria 4.0 pois não esse tema é enorme e está em constante desenvolvimento.
 Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
