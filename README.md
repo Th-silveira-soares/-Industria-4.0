@@ -3,11 +3,11 @@
 
 ## Tecnologias utilizadas
 * Linguagens:
-  * HTML
-  * CSS
+  - HTML
+  - CSS
 * I.A's:
-  * Google Gemini
-  * ChatGPT
+  - Google Gemini
+  - ChatGPT
 
 ## Não haverá tudo que engloba a industria 4.0 pois não esse tema é enorme e está em constante desenvolvimento.
 Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
