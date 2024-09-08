@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>&lt/ Industria 4.0</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="imagens/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <p class="logo">&lt/ Industria 4.0</p>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#area-sobre">O que é?</a></li>
+                <li><a href="#area-contato">Contato</a></li>
+            </ul>
+        </nav>
+        <a href="#area-pesquisa"><button>Pesquisar</button></a>
+    </header>
+    <main>
+        <h1>Tudo sobre Industria 4.0</h1>
+        <p class="sub-titulo">*Ou quase tudo :P</p>
+        <div class="area-sobre">
+            <h2>Sobre o que é?:</h2>
+            <p>
+                A Indústria 4.0 representa uma transformação radical no setor industrial, caracterizada pela integração de
+                tecnologias avançadas como a Internet das Coisas (IoT), Inteligência Artificial (IA), Big Data e automação
+                inteligente, impulsionando uma nova era de produção conectada e altamente eficiente. Este conceito está
+                centrado na digitalização de processos produtivos, permitindo que máquinas, sistemas e produtos interajam de
+                forma autônoma e em tempo real, criando fábricas inteligentes capazes de otimizar a produção, reduzir custos
+                e aumentar a qualidade. A utilização de sensores e dispositivos conectados, aliados à análise de grandes
+                volumes de dados gerados durante a operação, possibilita uma tomada de decisão mais precisa e rápida, ao
+                mesmo tempo em que promove a manutenção preditiva e a personalização em massa de produtos. Além disso, a
+                Indústria 4.0 tem um forte impacto no mercado de trabalho, exigindo novas habilidades dos profissionais, que
+                devem estar preparados para trabalhar com sistemas ciberfísicos e com a integração de tecnologias digitais
+                nas cadeias de valor. Em última análise, essa revolução industrial impulsiona a competitividade e a
+                inovação, moldando o futuro da manufatura e ampliando as fronteiras entre o mundo físico e digital.
+            </p>
+        </div>
+
+        <div class="area-pesquisa">
+            <h2>Pesquise aqui!</h2>
+            <input type="text" placeholder="Digite aqui o que você quer saber sobre Industria 4.0" id="campo-pesquisa">
+            <p>Exemplos: IoT , Sensores , Clp's , Áreas de atuação , Mercado</p>
+            <button class="pesquisa-btn" onclick="pesquisar()">Pesquisar</button>
+        </div>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+            <p class="resposta">Digite algo acima para pesquisar</p>
+        </section>
+
+        <div class="area-contato">
+            <h2>Contato</h2>
+            <p class="contato-autor">
+                Meu nome é Thiago Soares, sou graduando do bacharelado em Engenharia de Controle e Automação pela <a href="https://www.uergs.edu.br/inicial" target="_blank"><strong>Uergs</strong></a> e
+                venho através da <a href="https://cursos.alura.com.br/imersao?utm_source=sendflow&utm_medium=whatsapp&utm_content=aula-01&utm_campaign=imersao-dev-google-gemini-ago24" target="_blank"><strong>imersão</strong> <span>dev_</span> <strong>- Alura + Google Gemini</strong></a> expandir meu conhecimento para a área de front-end.
+                Nunca mexi para valer com HTML/CSS então é de fato para mim uma nova experiência e é muito massa!
+            </p>
+            <p class="duvidas">Para eventuais dúvidas<button target="_blank">Mande um email</button></p>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-p">
+            <p>© 2024 - &lt/ Industria 4.0 por: Thiago Soares. Todos os direitos reservados.</p>
+            <p>"Todas as imagens e resultados foram feitos por meio de Inteligência Artificial"</p>
+        </div>
+        <div class="footer-config">
+            <a href="https://www.linkedin.com/in/thiago-soares-82673921a" target="_blank">
+                <img src="imagens/linkedin-icon.png" alt="">
+            </a>
+            <a href="https://github.com/Th-silveira-soares" target="_blank">
+                <img src="imagens/github-icon.png" alt="">
+            </a>
+        </div>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

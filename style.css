@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+--------------------------------------- 
+                Navegação 
+---------------------------------------
+*/
+
+header li, header a, header button, header p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+
+header {
+    background-color: #1c1d20;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo {
+    cursor: default;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover {
+    color: #0088a9;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: rgba(0,136,169,0.6);
+    box-shadow: 0px 5px 30px #003e797e;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0,136,169);
+}
+
+/*
+--------------------------------------- 
+                Main 
+---------------------------------------
+*/
+
+main {
+    margin: 0;
+    background-image: linear-gradient(to bottom, #24252a, #313131);
+}
+
+main .sub-titulo {
+    text-indent: 0;
+    text-align: center;
+}
+
+main p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: rgba(255, 255, 255,0.4);
+    text-align: justify;
+    text-indent: 5rem;
+    line-height: 1.8;
+    margin: 10px 50px;
+}
+
+main h1, h2 {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+main h1 {
+    margin: 0;
+    padding: 100px;
+    padding-bottom: 10px;
+    font-size: 3rem;
+}
+
+main h2 {
+    margin: 0;
+    padding: 100px;
+    padding-bottom: 10px;
+    font-size: 2rem;
+}
+
+/*
+--------------------------------------- 
+            Área-sobre 
+---------------------------------------
+*/
+
+.area-sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 100px;
+}
+
+.area-sobre p {
+    background-color: none;
+    padding: 20px;
+}
+
+.area-sobre p:hover {
+    transition: all 0.3s ease 0s;
+    color: white;
+    background-color: rgba(0,136,169,1);
+    border-radius: 15px;
+}
+
+/*
+--------------------------------------- 
+            Área-pesquisa 
+---------------------------------------
+*/
+
+.area-pesquisa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 100px;
+}
+
+.area-pesquisa input {
+    font-size: 1.2rem;
+    padding-left: 30px;
+    border: none;
+    border-radius: 30px;
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    margin: 30px 0px;
+}
+
+.area-pesquisa p {
+    text-indent: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.area-pesquisa button {
+    font-size: 1.2rem;
+    color: white;
+    width: 30%;
+    height: 50px;
+}
+
+/*
+--------------------------------------- 
+        Resultados da pesquisa 
+---------------------------------------
+*/
+
+.resposta {
+    color: white;
+    text-align: center;
+    text-indent: 0;
+}
+
+.resultados-pesquisa {
+    background-color: rgba(0, 0, 0, 0.233);
+    padding: 30px 0px 30px 0px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bloco-resultado {
+    background-color: #0088a9;
+    padding: 20px 20px;
+    border-radius: 15px;
+    margin: 30px;
+}
+
+.resultados-pesquisa h3 {
+    background-color: rgb(0, 172, 202);
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    padding: 15px 30px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.resultados-pesquisa .result-pesquisa-descricao {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.result-conteudo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.result-conteudo img {
+    border-radius: 15px;
+    box-shadow:  0px 5px 20px #004b91;
+    min-width: 300px;
+}
+
+.result-pesquisa-link button {
+    color: white;
+    background-color: rgb(0, 172, 202);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.result-pesquisa-link button:hover {
+    background-color: rgba(0, 172, 202, 0.747);
+    box-shadow: 0px 5px 30px #003e797e;
+}
+
+/*
+--------------------------------------- 
+            Área-contato 
+---------------------------------------
+*/
+
+.area-contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 100px;
+    margin-bottom: 0;
+    padding-bottom: 100px;
+}
+
+.area-contato button {
+    margin-left: 20px;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.area-contato span {
+    color: white;
+    font-weight: 700;
+    padding: 5px;
+    background-image: linear-gradient(to right, #107fee 50%, #9e7eeb, pink);
+}
+
+.area-contato strong {
+    color: white;
+    font-weight: 500;
+}
+
+.area-contato a {
+    background-color:rgba(0,136,169,1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.area-contato p {
+    background-color: none;
+    padding: 20px;
+}
+
+.area-contato .contato-autor:hover {
+    transition: all 0.3s ease 0s;
+    color: white;
+    background-color: rgba(0,136,169,1);
+    border-radius: 15px;
+}
+
+.area-contato .contato-autor:hover a {
+    transition: all 0.3s ease 0s;
+    background-color: rgb(0, 98, 122);
+}
+
+.duvidas {
+    text-indent: 0;
+}
+
+/*
+--------------------------------------- 
+                Footer 
+---------------------------------------
+*/
+
+footer {
+    background-color: #24252a;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+footer p {
+    color: white;
+    font-family: "Montserrat";
+    font-size: 1rem;
+    padding: 20px;
+}
+
+.footer-config {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-config a {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-config img {
+    width: 30%;
+}
