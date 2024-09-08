@@ -13,5 +13,5 @@
 ## Não haverá tudo que engloba a industria 4.0 pois não esse tema é enorme e está em constante desenvolvimento.
 Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
 
-Qualquer dúvidas ou Feedback, podem me mandar por aqui ou pelas minhas redes.
+Qualquer dúvidas ou Feedback, podem me mandar por aqui ou [pelas minhas redes](https://linktr.ee/th.silveira.soares).
 Vamos juntos?!
