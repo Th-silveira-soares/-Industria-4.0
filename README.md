@@ -17,5 +17,5 @@ Com base no conhecimento obtido através da imersão dev_ - Alura + Google Gemin
 ## Não haverá tudo que engloba a industria 4.0 pois esse tema é enorme e está em constante desenvolvimento.
 Mas ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!
 
-Qualquer dúvidas ou Feedback, podem me mandar pelas [pelas minhas redes](https://linktr.ee/th.silveira.soares).
+Qualquer dúvidas ou Feedback, podem me mandar [pelas minhas redes](https://linktr.ee/th.silveira.soares).
 Vamos nessa juntos?!
