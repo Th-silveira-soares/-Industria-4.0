@@ -3,7 +3,7 @@
 
 ## Tecnologias utilizadas
 * Linguagens:
-  - <img src="https://icons8.com/icons/set/html"> HTML
+  - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24" /> HTML
   - CSS
 * I.A's:
   - Google Gemini
