@@ -3,7 +3,7 @@
 
 ## Tecnologias utilizadas
 * Linguagens:
-  - <img src="https://www.flaticon.com/br/icone-gratis/html-5_174854?term=html&page=1&position=1&origin=search&related_id=174854"> HTML
+  - <img src="https://icons8.com/icons/set/html"> HTML
   - CSS
 * I.A's:
   - Google Gemini
